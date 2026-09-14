@@ -1,10 +1,10 @@
-## **Prompt:**
+## **Prompt**
 Create a tool that helps local citizens with financial or medical needs; find local resources that the city, county or state provides. 
 
-## **Problem:**
+## **Problem**
 When in need of financial help regarding living or medical challenges, knowing what resources exist and navigating those resources can be challenging. Not everyone has access to a social worker. Having a system that can reliably act as one and aggregate this information would be very useful. 
 
-## **MVP:** 
+## **MVP** 
 A centralized system that aggregates public assistance resources available to residents of Dauphin County, the City of Harrisburg, and the Commonwealth of Pennsylvania. The goal is to consolidate scattered financial and medical support information into a single, accessible platform so local citizens can more easily discover and navigate available programs. 
 
 Key MVP Components: 
@@ -13,13 +13,13 @@ Key MVP Components:
 * Centralized, user-friendly access point for public resources 
 * Focus on improving discoverability of government-provided aid 
 
-## **Beyond MVP:** 
+## **Beyond MVP** 
 * Build a way to search for the data needed. 
 * Integrate the data into a chatbot that can parse the results. 
 * Provide a way for a user to add their current challenge, and the results should be tailored to that specific user. 
 * Build a UI that can take in user inputs and displays resources and information  
 
-## Available Resources:
+## Available Resources
 * https://harrisburgpa.gov/ 
 * https://harrisburgpa.gov/community/community_resources.php
 * https://www.dauphincounty.gov/
